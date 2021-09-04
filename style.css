@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+body {
+    background-color: rgb(119, 132, 156);
+    font-family: 'Open+Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+    max-width: 640px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.botao {
+    margin-top: 30px;
+    padding: 5px;
+}
+#errorMessage {
+    color: red;
+}
